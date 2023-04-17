@@ -1,0 +1,1 @@
+執行程式用 ./adder-rdyvld
